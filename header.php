@@ -15,11 +15,11 @@ ol,ul{list-style:none}
 a{color:#000;text-decoration:none}
 a.active,a:hover{color:#666;outline:0;transition:.3s ease-in-out}
 p{margin:0 0 25px 0}
-h1,h2,h3,h4,h5,h6{font-weight:400;margin:1.25rem 0 .625rem}
+h1,h2,h3,h4,h5,h6{font-weight:350;margin:1.25rem 0 .625rem}
 h1{font-size:1.625rem;line-height: 1.25;margin:0}
 h2{font-size:1.375rem}
 h3{font-size:1.1875rem}
-h4{font-size:1rem;border-left:3px solid #777;padding-left:8px}
+h4{font-size:1rem;border-left:3px solid #777;padding-left:8px;line-height: 0.6}
 
 #h{height:124px;width:100%;background:#fff;border-bottom:1px solid #e1e2e3;font-size:.8125rem;margin:0 auto}
 #comments,.p{padding:0 1.25rem}
