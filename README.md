@@ -1,3 +1,4 @@
+#自用 原作者https://https://github.com/ihuawin/Quark
 # Theme Quark For Typecho
 
 完善而极度精简的Typecho主题，在极简方面不做“之一”而是真正极致的“唯一”。
