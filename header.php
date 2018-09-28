@@ -4,7 +4,7 @@
 <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
 <style type="text/css">
 *{margin:0;padding:0;border:0;max-width:100%!important;word-wrap:break-word;word-break:break-all}
-body{font-family:Tahoma,"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;font-size:.9375rem;line-height:2;color:#000;background:#fdfdfd;letter-spacing:1px}
+body{font-family:arial, helvetica, sans-serif,"Segoe UI","Microsoft yahei";font-size:.9375rem;line-height:2;color:#000;background:#fdfdfd;letter-spacing:1px}
 blockquote{padding:0 15px;color:#666;border-left:4px solid #ddd}
 pre{background:#f7f7f7;margin:1.25rem 0;padding:.9375rem;overflow:auto;color:#4d4d4c;line-height:1.75}
 pre code{background:0 0;text-shadow:none;padding:0;margin:0}
